@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @seslindia
 - 👀 I’m interested in Web pentesting
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nodejs, mongoDB
 - 📫 How to reach me team@mrdoubt.org
 
 <!---
