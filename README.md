@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seslindia
 - 👀 I’m interested in Web pentesting
 - 🌱 I’m currently learning nodejs, mongoDB
-- 📫 How to reach me team@mrdoubt.org
+- 📫 How to reach me seslindia@yahoo.com
 
 <!---
 seslindia/seslindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
